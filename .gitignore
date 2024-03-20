@@ -25,5 +25,4 @@ build
 !pr-build.yml
 local-assets/**
 !scripts/**/*.js
-scripts/packaging/package-lock.json
 matano*.sh*
